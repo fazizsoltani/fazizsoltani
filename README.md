@@ -4,10 +4,10 @@
 
 
 - 🔭 I’m currently working on Data Union Project
-- 🌱 I always open to exploring and learning: Kubernetes, AWS, Python, Terraform. 
-- 👯 I’m looking to collaborate on Terraform, AWS, Python, Helm.
+- 🌱 I always open to exploring and learning: Kubernetes, AWS, Python and Terraform. 
+- 👯 I’m looking to collaborate on Terraform, AWS, Python and Helm.
 - 🤔 I’m looking for help with every interesting project
-- 💬 Ask me about Terraform, AWS, Python, AWS.
+- 💬 Ask me about Python, Terraform and AWS.
 - 📫 How to reach me through these socials IDs.
 
 <!-----Social Accounts------>
